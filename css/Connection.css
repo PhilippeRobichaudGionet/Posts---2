@@ -1,0 +1,24 @@
+/*#region ContentCSS Connection*/
+input{display: block;}
+.ConnectionSection{
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 30%;
+}
+
+#EmailInput, #MDPInput{
+    border-radius: 5px;
+    width:80%;
+    padding: 10px;
+}
+#SubmitInput{
+    border-radius: 5px;
+    width:80%;
+    height: 30px;
+    background-color: #056efd;
+    color:white;
+    vertical-align: middle;
+    cursor:pointer;
+}
+/*#endregion*/
